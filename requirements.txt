@@ -1,0 +1,11 @@
+# AI Agent Development Core Libraries
+langchain
+openai
+python-dotenv
+pydantic
+requests
+
+# Optional but useful
+# anthropic
+# chromadb
+# duckduckgo-search
